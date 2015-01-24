@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command HideSystems</Text>
+    <Description>Some description for HideSystems</Description>
+    <Assembly>HideSystems.dll</Assembly>
+    <FullClassName>HideSystems.Command</FullClassName>
+    <ClientId>eef858e5-6e99-41eb-a2a6-4d9c77607a04</ClientId>
+    <VendorId>ECODOMUS</VendorId>
+    <VendorDescription>http://ecodomus.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
